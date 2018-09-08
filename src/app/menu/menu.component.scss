@@ -1,0 +1,33 @@
+@import "../../style/_base.scss";
+
+.menu{
+	@extend %shadow;
+
+	width:$menu-width;
+	height:100%;
+	position: Fixed;
+	top:0%;
+	left:0%;
+	background-color:#111d4a;
+
+	.logo{
+			margin-left:12px;
+			margin-top:10px;
+			margin-bottom:40px;
+	}
+
+	.option{
+	 	width:70px;
+	 	height:50px;
+	 	text-align:center;
+
+	 	img{
+	 		width:20px;
+	 		margin-top: ( 50px - 20px )/2
+	 	}
+
+	 	&:hover{background-color:black;}
+	}
+}
+
+

@@ -1,0 +1,155 @@
+// 
+//  This file will be fetched by components to get the style
+// 
+
+@import '_config';
+
+*{
+    font-family: 'Roboto', sans-serif;   
+}
+
+h1{
+    font-size:$h1;
+    padding:0px;
+}
+
+h2{
+    font-size: $h2;
+    padding:0px;
+}
+
+h3{
+    font-size: $h3;
+    padding:0px;
+}
+
+h4{
+    font-size:$h4;
+    padding:0px;
+}
+
+a{
+    text-decoration: none;
+}
+
+input{
+    background-color: $input-background;
+    color: $input-color;
+    border:1px solid $input-border-color;
+    border-radius:4px;
+    height:$input-height;
+    line-height:$input-height;
+    padding:{
+        left: 10px;
+        right:10px;
+    }
+}
+
+//
+// Mixines
+//
+
+/*
+    Give shadow to different objects
+*/ 
+
+%shadow{
+    box-shadow:0px 2px 2px 0.3px #b8bcc1;
+}
+
+/*
+    This is to define the success box
+*/
+
+%success-box{
+    @extend %shadow;
+
+    background-color: $success-color;
+    color: $success-text-color;
+    border-radius:$border-radius;
+    //border: $border;
+    //border-color: darkgreen;
+    font-size: $success-text-size;
+}
+
+/*
+    This is to handle the overflow situation
+*/
+
+%overflow-fix{
+    white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/*
+    It is to give any object the property of surface
+*/
+
+
+%surface{
+    @extend %shadow;
+
+    background-color: $surface-color;
+    color: $surface-text-color;
+    border-radius:$border-radius;
+   // border: $border;
+}
+
+/*
+    It is to style all the buttons on the page
+*/
+
+%button{
+    background-color:$secondary-color;
+    border:0px;
+    border-radius: $border-radius;
+    cursor: pointer;
+
+    &:hover{
+        background-color: $secondary-dark-color;
+    }
+}
+
+/*
+    List menu is the menu creating using List(UL/LI)
+*/
+%list-menu{
+     
+    ul{
+        list-style:none;
+        margin:0px;  
+        font-family: 'Raleway', sans-serif;   
+    }
+
+    li{ 
+            color: $primary-text-color;
+            list-style-type: none;
+            cursor: pointer;
+            position: relative;
+            left: 0;
+            float: left;
+            height:$list-menu-height;
+            line-height:$list-menu-height;
+            border-radius:5px;
+            padding: {
+                left:$list-menu-padding-gap;
+                right:$list-menu-padding-gap;
+            }
+            margin: {
+                right:$list-menu-padding-gap;
+            }
+    
+            &:hover {
+                background-color: $primary-dark-color;
+            }
+    }
+}
+
+/*
+    This is to give any object the basic property of PRIMARY 
+*/
+%primary {
+    background-color: $primary-color;
+    color: $primary-text-color;
+}

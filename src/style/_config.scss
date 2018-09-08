@@ -1,0 +1,90 @@
+/*
+* This File is the default value for the app
+*/
+
+//
+// Switch 
+//
+
+//
+// Material Colors
+//
+
+// Fundamentals
+$primary-color: #5663ef;
+$primary-light-color: #848df3;
+$primary-dark-color: #2f3683;
+$secondary-color: #183446;
+$secondary-light-color: #6c7d89;
+$secondary-dark-color: #0e1d27;
+
+// Minor
+$background-color: #DAE0E6;
+$surface-color: #ffffff;
+$error-color: #b71c1c;
+$success-color: #48a31f;
+$success-light-color: #59c926;
+$success-dark-color: #387f18;
+$input-background: #f6f7f8;
+
+// Border 
+$border-color: #c6cbd1;
+$error-border-color:#771111;
+$success-border-color:#2a5408;
+$input-border-color: #edeff1;
+
+// Shadow color
+$surface-shadow-color:#b8bcc1;
+
+//
+// Text Colors
+//
+$primary-text-color: #fff;
+$secondary-text-color: #fff;
+$background-text-color: #222222;
+$surface-text-color: #1c1c1c;
+$error-text-color: #fff;
+$success-text-color: #fff;
+$input-color:#000;
+
+//
+// Fonts
+//
+@import url('https://fonts.googleapis.com/css?family=Raleway:400');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+//
+// Test Size
+//
+$h1 : 2em;
+$h2 : 1.5em;
+$h3 : 1.3em;
+$h4 : 1em;
+$h5 : 0.8em;
+$h6 : 0.7em;
+$success-text-size: 13px;
+
+//
+// Dimentions/factos
+//
+$top-height: 60px;
+$box-padding: 30px;
+$list-menu-height: 40px;
+$list-menu-padding-gap:15px;
+$input-height:30px;
+
+//Hero list properties
+$list-height:30px;
+$list-width:180px;
+
+
+//
+// Other
+//
+$border: 1px solid $border-color;
+$border-radius:6px;
+$page-margin: 30px;
+
+
+//
+$menu-width: 70px;

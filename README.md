@@ -4,7 +4,7 @@
 
 # LegalAI
 
-Cloud based AI for lawyers and legal firms, which can find arguments, voilations etc, can also create all the required documents like written statements, case summery, time line etc.
+Platform for lawyers and legal firms to leverage ML/NLP to identify, extract, and analyze cases, and manage them on cloud.
 
 **Other Features** 
 - Multi users level.
@@ -43,6 +43,9 @@ Cloud based AI for lawyers and legal firms, which can find arguments, voilations
 	- Search files, cases etc
 	- Make notes, highlight text.
 
+**Key Partnership**
+
+- Getting scanners in bulk to ship with subscription.
 
 ## Market 
 
@@ -51,25 +54,35 @@ Cloud based AI for lawyers and legal firms, which can find arguments, voilations
 
 ## Competition
 
-- No other company is providing the same service.
-- Some legal firm in US are using AI/ML for the same, but it's only for the personal use. 
+- **Luminance** is an document analytics software that utilities artificial intelligence to provide both a global overview and a forensic insight into a company, and handle big data.
+
+- **Kira** is a powerful machine learning software that identifies, extracts, and analyzes text in your contracts and other documents.
+
+- **SpotDraft**, helping businesses make their contracts “come to life”.
+
+- **CaseMine**, NCR-based legal research and analysis platform.
+
+- **NearLaw**, to search for cases.
+
+- **Pensieve**, AI-driven legal research platform.
+
+What makes us different is, we are trying to make it affordable, and we can also work with physical documents.
 
 **How we deal with upcoming competition?**
 
 - API Licensing, which will create indirect revenue from competition.
 
+**For Future**
+
+- IOT based scanner, which will directly push documents to cloud. It will give us a competitive advantage.
+
 
 ## Sales/Money
 
 - Free for Individual for first 3 cases. (To increase the penetration)
-- Individual subscription 
-	- [INR 8000/Month].
-- Team subscription (10 Member) 
-	- [INR 20000/Month] 
-	- +1 user [INR 1500/month] 
-- Corporate subscription (50 Member) 
-	- [INR 40000/Month]
-	- +1 user [INR 1000/Month]
+- Individual subscription.
+- Team subscription (10-50 Member) 
+- Corporate subscription (50-n Member) 
 
 ## Achievements
 
@@ -86,5 +99,5 @@ Cloud based AI for lawyers and legal firms, which can find arguments, voilations
 - Simran Gawri
 - Satish Kumar 
 - Arnima Roy
-- Shlok 
 - Himanshu 
+- Rasansha
