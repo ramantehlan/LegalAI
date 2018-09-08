@@ -14,8 +14,9 @@ Platform for lawyers and legal firms to leverage ML/NLP to identify, extract, an
 
 ## Problem
 
-- 28.1 Million Pending cases, increasing day by day.
+- 28.1 Million cases handled by lawyers in India.
 - Increasing number of cases per lawyer.
+- More man power required to do tedious jobs.
 - Most of the work is still in hard copies.
 - Hard and slow process.
 - Slow digitalization.
