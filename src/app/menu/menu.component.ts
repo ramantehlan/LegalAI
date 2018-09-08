@@ -6,8 +6,14 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./menu.component.scss']
 })
 export class MenuComponent implements OnInit {
+  
+  selectedPage: string = "dashboard";
 
   constructor() { }
+
+  optionClicked(name: string){
+  	this.selectedPage = name;
+  }
 
   ngOnInit() {
   }

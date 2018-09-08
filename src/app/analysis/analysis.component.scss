@@ -1,1 +1,9 @@
-@import "../../style/_base.scss"
+@import "../../style/_base.scss";
+
+.result{
+	padding:10px;
+	border:1px solid rgba(50,50,50,0.8);
+	margin-top:20px;
+}
+
+.center{text-align:center;}
