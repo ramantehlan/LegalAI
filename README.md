@@ -1,6 +1,6 @@
 # LegalAI
 
-Cloud based AI for lawyers and legal firms, which can find arguments, voilations etc, can also create all the required documents like written statements, case summery, timeline etc.
+Cloud based AI for lawyers and legal firms, which can find arguments, voilations etc, can also create all the required documents like written statements, case summery, time line etc.
 
 **Other Features** 
 - Multi users level.
@@ -26,6 +26,8 @@ Cloud based AI for lawyers and legal firms, which can find arguments, voilations
 	- Nature of case
 	- summery
 	- possible punishment
+	- Prepare Written Statement.
+	- Get Time line.
 
 - Digitalizes Files, store 
 	- Cases
