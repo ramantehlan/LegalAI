@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="./LegalAI.png" width="150">
+</p>
+
 # LegalAI
 
 Cloud based AI for lawyers and legal firms, which can find arguments, voilations etc, can also create all the required documents like written statements, case summery, time line etc.
