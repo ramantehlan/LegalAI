@@ -8,6 +8,10 @@
     font-family: 'Roboto', sans-serif;   
 }
 
+a{
+    outline: none;
+}
+
 h1{
     font-size:$h1;
     padding:0px;
@@ -30,6 +34,16 @@ h4{
 
 a{
     text-decoration: none;
+}
+
+.page_name{
+    
+    font-size: 22px;
+    color:#ffa0aa;
+}
+
+.page_body{
+    padding:30px;
 }
 
 input{

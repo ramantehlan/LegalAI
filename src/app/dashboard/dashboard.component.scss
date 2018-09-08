@@ -1,1 +1,28 @@
-@import "../../style/_base.scss"
+@import "../../style/_base.scss";
+
+
+.card{
+	@extend %shadow;
+
+	border-radius: 5px;
+	float: left;
+	min-weidth: 100px;
+	margin:{
+		left:40px;
+		top:20px;
+		}
+	}
+
+.card-hard{
+		height:40px;
+		line-height:40px;
+		padding-left:10px;
+		padding-right:10px;
+		background-color:rgba(100,100,100,0.05);
+		border-bottom: 1px solid rgba(100,100,100,0.15);
+}
+
+.card-body{
+	padding:20px;
+}
+
