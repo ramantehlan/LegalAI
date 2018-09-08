@@ -8,19 +8,11 @@ Cloud based AI for lawyers and legal firms, which can find arguments, voilations
 - search files, text, etc. 
 - Make notes. 
 
-API for sale.
-
-
 ## Problem
 
-- 2.81 Crore Pending cases
-- 29 Hight courts
-- 15 Judges on every Million people
-
-
-other
-
-- Spending too much time to read the case and finding out the 
+- 2.81 Crore Pending cases.
+- 15 Judges on every Million people.
+- Hard and slow process to process. 
 
 ## Solution
 
@@ -28,15 +20,24 @@ Digitalize files, find important arguments, Precedent cases, nature of case
 
 ## Market 
 
-
+- In 2011 there were 1.3 million lawyers.
+- Growing 4 per cent annually.
 
 ## Competition
+
+-
 
 
 ## Sales/Money
 
-## Achievements 
+- API for sale.
+
+## Achievements
+
+-  
 
 ## Conclusion
+
+-
 
 ## Team 
