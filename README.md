@@ -24,6 +24,7 @@ Platform for lawyers and legal firms to leverage ML/NLP to identify, extract, an
 
 ## Solution
 
+
 - Using Machine Learning and Natural Language processing to identify 
 	- Arguments
 	- Violations 
@@ -33,6 +34,8 @@ Platform for lawyers and legal firms to leverage ML/NLP to identify, extract, an
 	- possible punishment
 	- Prepare Written Statement.
 	- Get Time line.
+
+Trained on all the public litigation cases available online.
 
 - Digitalizes Files, store 
 	- Cases

@@ -3,22 +3,22 @@
   <img src="../../assets/LegalAI.png" width="45px" class="logo">
   
   <a routerLink="/dashboard"> 
-  	<div class="option" (click)="optionClicked('dashboard')">
+  	<div class="option" (click)="optionClicked('dashboard')" [class.selected]="'dashboard' === selectedPage">
   			<img src="../../assets/dashboard.png" >
   	</div>
   </a>
   <a routerLink="/analysis"> 
-  	<div class="option">
+  	<div class="option" (click)="optionClicked('analysis')" [class.selected]="'analysis' === selectedPage">
   		<img src="../../assets/analysis.png" >
   	</div>
   </a>
-    <div class="option">
+    <div class="option" (click)="optionClicked('user')" [class.selected]="'user' === selectedPage">
   		<img src="../../assets/man-user.png" >
   	</div>
-  	 <div class="option">
+  	 <div class="option" (click)="optionClicked('settings')" [class.selected]="'settings' === selectedPage">
   		<img src="../../assets/settings.png" >
   	</div>
-  	<div class="option">
+  	<div class="option" (click)="optionClicked('logout')" [class.selected]="'logout' === selectedPage">
   		<img src="../../assets/logout.png">
   	</div>
 
