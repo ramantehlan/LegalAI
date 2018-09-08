@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./LegalAI.png" width="150">
+    <img src="LegalAI.png" width="150">
 </p>
 
 # LegalAI
