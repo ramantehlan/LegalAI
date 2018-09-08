@@ -10,7 +10,7 @@ Cloud based AI for lawyers and legal firms, which can find arguments, voilations
 
 ## Problem
 
-- 2.81 Crore Pending cases, increasing day by day.
+- 28.1 Million Pending cases, increasing day by day.
 - Increasing number of cases per lawyer.
 - Most of the work is still in hard copies.
 - Hard and slow process.
@@ -57,7 +57,7 @@ Cloud based AI for lawyers and legal firms, which can find arguments, voilations
 
 ## Sales/Money
 
-- Free for first 5 cases, up to 3 members. (To increase the penetration)
+- Free for Individual for first 3 cases. (To increase the penetration)
 - Individual subscription 
 	- [INR 8000/Month].
 - Team subscription (10 Member) 
@@ -76,3 +76,11 @@ Cloud based AI for lawyers and legal firms, which can find arguments, voilations
 -
 
 ## Team 
+
+- Raman Tehlan
+- Yash Dhiman
+- Simran Gawri
+- Satish Kumar 
+- Arnima Roy
+- Shlok 
+- Himanshu 
