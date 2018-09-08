@@ -4,7 +4,7 @@
 
 # LegalAI
 
-Platform for lawyers and legal firms to leverage ML/NLP to identify, extract, and analyze cases, and manage them on cloud.
+Platform for lawyers and legal firms to leverage ML/NLP to identify, extract, and analyze litigation cases, and manage them on cloud.
 
 **Other Features** 
 - Multi users level.
@@ -55,6 +55,8 @@ Platform for lawyers and legal firms to leverage ML/NLP to identify, extract, an
 
 ## Competition
 
+Indirect Competition.
+
 - **Luminance** is an document analytics software that utilities artificial intelligence to provide both a global overview and a forensic insight into a company, and handle big data.
 
 - **Kira** is a powerful machine learning software that identifies, extracts, and analyzes text in your contracts and other documents.
@@ -77,6 +79,10 @@ What makes us different is, we are trying to make it affordable, and we can also
 
 - IOT based scanner, which will directly push documents to cloud. It will give us a competitive advantage.
 
+## Validation
+
+- 4/5 Lawyers we called wanted to implement it right away.
+- We did take feedback from lawyers.
 
 ## Sales/Money
 
@@ -89,9 +95,16 @@ What makes us different is, we are trying to make it affordable, and we can also
 
 -  
 
+## The Future
+
+- Expending to analyze all the other cases.
+- Automate, fetching documents directly from drive or email.
+- Fast in future, due to digitalization.
+
 ## Conclusion
 
--
+- 
+
 
 ## Team 
 

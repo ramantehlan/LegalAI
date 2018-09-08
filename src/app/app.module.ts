@@ -7,6 +7,7 @@ import { MenuComponent } from './menu/menu.component';
 import { DashboardComponent } from './dashboard/dashboard.component';
 import { AppRoutingModule } from './/app-routing.module';
 import { AnalysisComponent } from './analysis/analysis.component';
+import { TopComponent } from './top/top.component';
 
 
 @NgModule({
@@ -14,7 +15,8 @@ import { AnalysisComponent } from './analysis/analysis.component';
     AppComponent,
     MenuComponent,
     DashboardComponent,
-    AnalysisComponent
+    AnalysisComponent,
+    TopComponent
   ],
   imports: [
     BrowserModule,
