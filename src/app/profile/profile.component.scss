@@ -1,0 +1,30 @@
+@import "../../style/_base.scss";
+
+.card{
+
+	border-radius: 5px;
+	cursor:pointer;
+	border:1px solid #2B9720;
+	margin:{
+		left:40px;
+		top:20px;
+		}
+	}
+
+.card-hard{
+		height:40px;
+		line-height:40px;
+		padding-left:10px;
+		padding-right:10px;
+		background-color:#2B9720;
+		color:white;
+}
+
+.card-body{
+	padding:20px;
+	background-color:rgba(230,230,230,0.3);
+	color:black;
+}
+
+
+

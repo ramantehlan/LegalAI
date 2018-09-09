@@ -2,9 +2,9 @@
     <img src="LegalAI.png" width="150">
 </p>
 
-# LegalAI
+# LegalAI - A quick case Analyzer
 
-Platform for lawyers and legal firms to leverage ML/NLP to identify, extract, and analyze litigation cases, and manage them on privately cloud.
+Platform for lawyers and legal firms to leverage ML/NLP to identify, extract, and analyze litigation cases, and manage them privately on cloud.
 
 **Other Features** 
 - Multi users level.

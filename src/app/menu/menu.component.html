@@ -12,9 +12,11 @@
   		<img src="../../assets/analysis.png" >
   	</div>
   </a>
+  <a routerLink="/profile">
     <div class="option" (click)="optionClicked('user')" [class.selected]="'user' === selectedPage">
   		<img src="../../assets/man-user.png" >
   	</div>
+  </a>
   	 <div class="option" (click)="optionClicked('settings')" [class.selected]="'settings' === selectedPage">
   		<img src="../../assets/settings.png" >
   	</div>
