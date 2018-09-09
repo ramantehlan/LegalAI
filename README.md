@@ -14,7 +14,7 @@ Platform for lawyers and legal firms to leverage ML/NLP to identify, extract, an
 
 ## Problem
 
-- 28.1 Million cases handled by lawyers in India.
+- 28.1 Million cases handled by lawyers in India, Plus increasing day by day.
 - Increasing number of cases per lawyer.
 - More man power required to do tedious jobs.
 - Most of the work is still in hard copies.
@@ -23,7 +23,6 @@ Platform for lawyers and legal firms to leverage ML/NLP to identify, extract, an
 
 
 ## Solution
-
 
 - Using Machine Learning and Natural Language processing to identify 
 	- Arguments
@@ -35,7 +34,8 @@ Platform for lawyers and legal firms to leverage ML/NLP to identify, extract, an
 	- Prepare Written Statement.
 	- Get Time line.
 
-Trained on all the public litigation cases available online.
+- Trained on all the public litigation cases available online.
+- 256-bit Military Grade Encryption
 
 - Digitalizes Files, store 
 	- Cases
@@ -94,20 +94,13 @@ What makes us different is, we are trying to make it affordable, and we can also
 - Team subscription (10-50 Member) 
 - Corporate subscription (50-n Member) 
 
-## Achievements
-
--  
 
 ## The Future
 
 - Expending to analyze all the other cases.
 - Automate, fetching documents directly from drive or email.
 - Fast in future, due to digitalization.
-
-## Conclusion
-
-- 
-
+- Make video of the case.
 
 ## Team 
 
