@@ -8,6 +8,7 @@ import { DashboardComponent } from './dashboard/dashboard.component';
 import { AppRoutingModule } from './/app-routing.module';
 import { AnalysisComponent } from './analysis/analysis.component';
 import { TopComponent } from './top/top.component';
+import { ProfileComponent } from './profile/profile.component';
 
 
 @NgModule({
@@ -16,7 +17,8 @@ import { TopComponent } from './top/top.component';
     MenuComponent,
     DashboardComponent,
     AnalysisComponent,
-    TopComponent
+    TopComponent,
+    ProfileComponent
   ],
   imports: [
     BrowserModule,

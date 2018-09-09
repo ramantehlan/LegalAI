@@ -4,7 +4,7 @@
 
 # LegalAI
 
-Platform for lawyers and legal firms to leverage ML/NLP to identify, extract, and analyze litigation cases, and manage them on cloud.
+Platform for lawyers and legal firms to leverage ML/NLP to identify, extract, and analyze litigation cases, and manage them on privately cloud.
 
 **Other Features** 
 - Multi users level.
